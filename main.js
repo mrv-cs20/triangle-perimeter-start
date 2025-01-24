@@ -1,1 +1,1 @@
-// Triangle Perimeter Assignment Start Code
+// Triangle Perimeter Assignment
